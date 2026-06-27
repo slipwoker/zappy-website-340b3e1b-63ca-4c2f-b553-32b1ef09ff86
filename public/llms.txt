@@ -1,0 +1,87 @@
+# Leo's Photography — Generative Engine Optimization Map
+
+> Leo's Photography is a premium sports photography brand specializing in football and basketball action photography, as well as portraits and events. The brand exudes a luxury, high-end aesthetic with a black, white, and gold color palette, conveying professionalism and elegance. Leo is positioned as a passionate and skilled sports photographer whose work captures the intensity and emotion of athletic moments. The website aims to deliver a sophisticated, gallery-like experience with masonry layouts, hover animations, smooth scrolling, and fade-in effects that reflect the premium nature of the brand.
+
+---
+
+## Pages
+
+### בית
+https://leo-s-photography-340b3e1b.zappy5.app
+צילומי ספורט יוקרתיים מכדורגל, כדורסל ועד פורטרטים עוצרי נשימה. חווית גלריה אלגנטית שתופסת את עוצמת הרגע. היכנסו לפגוש את התשוקה מאחורי העדשה.
+
+### תיק עבודות
+https://leo-s-photography-340b3e1b.zappy5.app/portfolio
+תיק עבודות עשיר בצילומי פוטבול אמריקאי, טבע דומם ואסתטיקת Fan Ho. כל תמונה מספרת סיפור של תנועה ועומק. הציצו אל מאחורי הקלעים של הצילום הפרימיום.
+
+### אודות
+https://leo-s-photography-340b3e1b.zappy5.app/about
+ליאו, צלם ספורט מוביל, מביא גישה יוקרתית לעולם הכדורגל והכדורסל. משלב דיוק טכני עם תשוקה בוערת לרגעים אותנטיים. קראו איך נולד החזון.
+
+### מחירון
+https://leo-s-photography-340b3e1b.zappy5.app/pricing
+מחירון שקוף לחבילות צילום ספורט, פורטרטים ואירועים. בחרו את המסלול שהופך הישגים לאמנות קיר נצחית. התחילו לתכנן את הסשן היוקרתי שלכם עוד היום.
+
+### צור קשר
+https://leo-s-photography-340b3e1b.zappy5.app/contact
+צרו קשר להזמנת צילומי כדורגל, כדורסל או פורטרטים באווירה אלגנטית. ליאו מחכה לשמוע על החלום שלכם ולתרגם אותו לתמונה מושלמת. השאירו פרטים עכשיו.
+
+### תודה על פנייתך
+https://leo-s-photography-340b3e1b.zappy5.app/thank-you
+Leo's Photography - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://leo-s-photography-340b3e1b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://leo-s-photography-340b3e1b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://leo-s-photography-340b3e1b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://leo-s-photography-340b3e1b.zappy5.app/contact
+- Endpoint: https://leo-s-photography-340b3e1b.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Leo's Photography
+Leo's Photography is a premium sports photography brand specializing in football and basketball action photography, as well as portraits and events. The brand exudes a luxury, high-end aesthetic with a black, white, and gold color palette, conveying professionalism and elegance. Leo is positioned as a passionate and skilled sports photographer whose work captures the intensity and emotion of athletic moments. The website aims to deliver a sophisticated, gallery-like experience with masonry layouts, hover animations, smooth scrolling, and fade-in effects that reflect the premium nature of the brand.
+
+## Target Audience
+- Sports enthusiasts, athletes, event organizers, and individuals seeking professional photography
+- חובבי ספורט
+- ספורטאים מקצועיים
+- מארגני אירועים
+
+## Industry
+Photography
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://leo-s-photography-340b3e1b.zappy5.app/sitemap.xml
+- Robots: https://leo-s-photography-340b3e1b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://leo-s-photography-340b3e1b.zappy5.app/llms-full.txt
