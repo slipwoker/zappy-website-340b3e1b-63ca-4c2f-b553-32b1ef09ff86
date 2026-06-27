@@ -2,13 +2,13 @@
 
 Leo's Photography is a premium sports photography brand specializing in football and basketball action photography, as well as portraits and events. The brand exudes a luxury, high-end aesthetic with a black, white, and gold color palette, conveying professionalism and elegance. Leo is positioned as a passionate and skilled sports photographer whose work captures the intensity and emotion of athletic moments. The website aims to deliver a sophisticated, gallery-like experience with masonry layouts, hover animations, smooth scrolling, and fade-in effects that reflect the premium nature of the brand.
 
-Source: https://leo-s-photography-340b3e1b.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תפוס את הרגע המושלם בזוהר הזהוב — Leo&#39;s Photography
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app
+URL: https://example.com
 Description: צילומי ספורט יוקרתיים מכדורגל, כדורסל ועד פורטרטים עוצרי נשימה. חווית גלריה אלגנטית שתופסת את עוצמת הרגע. היכנסו לפגוש את התשוקה מאחורי העדשה.
 
 תפוס את הרגע המושלם בזוהר הזהוב — Leo's Photography
@@ -446,7 +446,7 @@ Description: צילומי ספורט יוקרתיים מכדורגל, כדורס
 
 ## גלו גלריה של אקשן מנצח שקפא בזמן — Leo&#39;s Photography
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app/portfolio
+URL: https://example.com/portfolio
 Description: תיק עבודות עשיר בצילומי פוטבול אמריקאי, טבע דומם ואסתטיקת Fan Ho. כל תמונה מספרת סיפור של תנועה ועומק. הציצו אל מאחורי הקלעים של הצילום הפרימיום.
 
 גלו גלריה של אקשן מנצח שקפא בזמן — Leo's Photography
@@ -960,7 +960,7 @@ Description: תיק עבודות עשיר בצילומי פוטבול אמריק
 
 ## הכירו את ליאו – הצלם שמנציח נשמה של משחק — Leo&#39;s Photography
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app/about
+URL: https://example.com/about
 Description: ליאו, צלם ספורט מוביל, מביא גישה יוקרתית לעולם הכדורגל והכדורסל. משלב דיוק טכני עם תשוקה בוערת לרגעים אותנטיים. קראו איך נולד החזון.
 
 הכירו את ליאו – הצלם שמנציח נשמה של משחק — Leo's Photography
@@ -1303,7 +1303,7 @@ Leo's Photography
 
 ## השקיעו באומנות שמנציחה תהילה אישית — Leo&#39;s Photography
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app/pricing
+URL: https://example.com/pricing
 Description: מחירון שקוף לחבילות צילום ספורט, פורטרטים ואירועים. בחרו את המסלול שהופך הישגים לאמנות קיר נצחית. התחילו לתכנן את הסשן היוקרתי שלכם עוד היום.
 
 השקיעו באומנות שמנציחה תהילה אישית — Leo's Photography
@@ -1716,7 +1716,7 @@ Description: מחירון שקוף לחבילות צילום ספורט, פור�
 
 ## בואו נתכנן יחד את יצירת המופת הבאה שלכם — Leo&#39;s Photography
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app/contact
+URL: https://example.com/contact
 Description: צרו קשר להזמנת צילומי כדורגל, כדורסל או פורטרטים באווירה אלגנטית. ליאו מחכה לשמוע על החלום שלכם ולתרגם אותו לתמונה מושלמת. השאירו פרטים עכשיו.
 
 בואו נתכנן יחד את יצירת המופת הבאה שלכם — Leo's Photography
@@ -2047,7 +2047,7 @@ Description: צרו קשר להזמנת צילומי כדורגל, כדורסל 
 
 ## מדיניות פרטיות
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2316,7 +2316,7 @@ Leo's Photography ("החברה", "אנו", "שלנו") מחויבת להגן ע�
 
 ## הצהרת נגישות
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2594,7 +2594,7 @@ Leo's Photography מחויבת להנגיש את השירותים לכלל הצ�
 
 ## תנאי שימוש
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2891,7 +2891,7 @@ Leo's Photography מספקת Photography דרך האתר. השירותים כפ�
 
 ## תודה על פנייתך
 
-URL: https://leo-s-photography-340b3e1b.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Leo's Photography - תודה על פנייתך
 
 תודה על פנייתך

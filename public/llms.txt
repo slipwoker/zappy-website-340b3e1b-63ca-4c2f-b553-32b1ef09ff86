@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://leo-s-photography-340b3e1b.zappy5.app
+https://example.com
 צילומי ספורט יוקרתיים מכדורגל, כדורסל ועד פורטרטים עוצרי נשימה. חווית גלריה אלגנטית שתופסת את עוצמת הרגע. היכנסו לפגוש את התשוקה מאחורי העדשה.
 
 ### תיק עבודות
-https://leo-s-photography-340b3e1b.zappy5.app/portfolio
+https://example.com/portfolio
 תיק עבודות עשיר בצילומי פוטבול אמריקאי, טבע דומם ואסתטיקת Fan Ho. כל תמונה מספרת סיפור של תנועה ועומק. הציצו אל מאחורי הקלעים של הצילום הפרימיום.
 
 ### אודות
-https://leo-s-photography-340b3e1b.zappy5.app/about
+https://example.com/about
 ליאו, צלם ספורט מוביל, מביא גישה יוקרתית לעולם הכדורגל והכדורסל. משלב דיוק טכני עם תשוקה בוערת לרגעים אותנטיים. קראו איך נולד החזון.
 
 ### מחירון
-https://leo-s-photography-340b3e1b.zappy5.app/pricing
+https://example.com/pricing
 מחירון שקוף לחבילות צילום ספורט, פורטרטים ואירועים. בחרו את המסלול שהופך הישגים לאמנות קיר נצחית. התחילו לתכנן את הסשן היוקרתי שלכם עוד היום.
 
 ### צור קשר
-https://leo-s-photography-340b3e1b.zappy5.app/contact
+https://example.com/contact
 צרו קשר להזמנת צילומי כדורגל, כדורסל או פורטרטים באווירה אלגנטית. ליאו מחכה לשמוע על החלום שלכם ולתרגם אותו לתמונה מושלמת. השאירו פרטים עכשיו.
 
 ### תודה על פנייתך
-https://leo-s-photography-340b3e1b.zappy5.app/thank-you
+https://example.com/thank-you
 Leo's Photography - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://leo-s-photography-340b3e1b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://leo-s-photography-340b3e1b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://leo-s-photography-340b3e1b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://leo-s-photography-340b3e1b.zappy5.app/contact
-- Endpoint: https://leo-s-photography-340b3e1b.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Photography
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://leo-s-photography-340b3e1b.zappy5.app/sitemap.xml
-- Robots: https://leo-s-photography-340b3e1b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://leo-s-photography-340b3e1b.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
